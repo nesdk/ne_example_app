@@ -1,0 +1,6 @@
+framework module ASCScreenBrightnessDetector {
+  umbrella header "ASCScreenBrightnessDetector-umbrella.h"
+
+  export *
+  module * { export * }
+}

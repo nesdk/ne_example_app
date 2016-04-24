@@ -1,0 +1,1 @@
+../../../ASCScreenBrightnessDetector/Classes/ASCScreenBrightnessDetector.h

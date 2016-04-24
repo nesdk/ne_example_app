@@ -1,0 +1,44 @@
+PODS:
+  - ASCScreenBrightnessDetector (1.0.0)
+  - AWSCognito (2.4.0):
+    - AWSCore (= 2.4.0)
+  - AWSCore (2.4.0)
+  - AWSS3 (2.4.0):
+    - AWSCore (= 2.4.0)
+  - DeviceGuru (1.3.7)
+  - QuadratTouch (1.1.1)
+  - ReachabilitySwift (2.3.3)
+  - RxBlocking (2.4):
+    - RxSwift (~> 2.4)
+  - RxSwift (2.4)
+  - RxTests (2.4):
+    - RxSwift (~> 2.4)
+  - TransitionKit (2.0.0)
+
+DEPENDENCIES:
+  - ASCScreenBrightnessDetector
+  - AWSCognito
+  - AWSCore
+  - AWSS3
+  - DeviceGuru
+  - QuadratTouch (>= 1.0)
+  - ReachabilitySwift
+  - RxBlocking (~> 2.0)
+  - RxSwift (~> 2.0)
+  - RxTests (~> 2.0)
+  - TransitionKit (~> 2.0.0)
+
+SPEC CHECKSUMS:
+  ASCScreenBrightnessDetector: acfbc843356c5203e678b274db54bf2b4595df5a
+  AWSCognito: 1d96bd3ccda48918b00862895561dcb2a6080acf
+  AWSCore: 7e0da755786280a76ed4ab4ed8c1d38ced09b460
+  AWSS3: dc00e788fb6733853ecd615a45f9d7dd6ce25823
+  DeviceGuru: f847629dc0da0145ba48a9fc314e613ca4aa9caf
+  QuadratTouch: 296d83c63a4328f6f40af9fc728fe24f0e3b00d4
+  ReachabilitySwift: e0f6b6f280effb47731acfaaa2d5ffe223703793
+  RxBlocking: 1226c1fa0ca1e0ca5f964d4330ca3649f2128680
+  RxSwift: 67b9ef4e8b34fb394e200e754c6a09cc16559f94
+  RxTests: 8b9691e6476dfa6025fae9a69f449bf4cb5e5cfc
+  TransitionKit: c150629869b0eab9d270f914aad2d1a088a8c19d
+
+COCOAPODS: 0.39.0
